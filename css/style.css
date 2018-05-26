@@ -1,0 +1,21 @@
+#back{
+	background-image:url(../img/hero.jpg);
+  	height: 500px;
+  	max-width: 100%;
+  	}
+ul{
+	list-style: none;
+	position: fixed;
+	right: 0;
+	}
+h1{
+	font-size: 24px;
+	color: white;
+}
+h4{
+	font-size: 15px;
+	color: white;
+}
+.sec{
+	background-color: #A5F55F;
+}
